@@ -1,5 +1,7 @@
 # Sales Dashboard Project
 
+The primary objective of this Sales Dashboard project is to enhance business success through advanced data analysis techniques, focusing specifically on time series analysis.
+
 ![Sales-Dashboards-refresh](https://github.com/git-shashank-hp/Sales_Dashboard/assets/144894099/8a5e941d-76df-406b-aa8a-749a5341e06c)
 
 
