@@ -78,3 +78,31 @@ This dataset contains detailed information on sales orders and customer data. Ke
 
 This dataset offers a comprehensive snapshot of sales transactions, facilitating in-depth analysis for strategic decision-making and strategy development.
 
+## Libraries Used
+
+1. **NumPy**
+   - **Purpose:** NumPy is a fundamental package for scientific computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on these arrays.
+   - **Installation:** `pip install numpy`
+   - **Documentation:** [NumPy Documentation](https://numpy.org/doc/stable/)
+
+2. **Pandas**
+   - **Purpose:** Pandas is a powerful data manipulation and analysis library. It provides data structures like DataFrame for efficient data handling and analysis in Python.
+   - **Installation:** `pip install pandas`
+   - **Documentation:** [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+
+3. **Matplotlib.pyplot**
+   - **Purpose:** Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib.pyplot provides a MATLAB-like plotting framework.
+   - **Installation:** `pip install matplotlib`
+   - **Documentation:** [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+
+4. **Seaborn**
+   - **Purpose:** Seaborn is a statistical data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+   - **Installation:** `pip install seaborn`
+   - **Documentation:** [Seaborn Documentation](https://seaborn.pydata.org/documentation.html)
+
+## Getting Started
+
+1. Install the required libraries using the provided installation commands.
+2. Use the provided documentation links for each library to explore and understand their functionalities.
+3. Refer to the specific code sections in the project where each library is utilized for data analysis, visualization, and forecasting.
+
